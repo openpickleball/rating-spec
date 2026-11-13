@@ -1,5 +1,7 @@
 # OPEN rating spec
 
+[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/openpickleball/rating-spec/badge)](https://scorecard.dev/viewer/?uri=github.com/openpickleball/rating-spec)
+
 This repository holds the official rating spec for [OPEN](https://github.com/openpickleball), the Open Pickleball Evaluation Network, and the process for changing it.
 
 > **Status:** No official version of the spec exists yet, and no OPEN rating is live. The [reference engine](https://github.com/openpickleball/engine) is a demonstration. Its outputs are not OPEN ratings.
